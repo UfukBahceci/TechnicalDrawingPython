@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "You can cite this software as below."
+authors:
+- family-names: "Bahçeci"
+  given-names: "Ufuk"
+  orcid: "https://orcid.org/0000-0001-5415-3705"
+title: "technicaldrawpy"
+date-released: 2022
+url: "https://github.com/UfukBahceci/TechnicalDrawingPython"
