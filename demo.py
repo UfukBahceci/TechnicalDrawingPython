@@ -1,5 +1,10 @@
 import sys
 #sys.path.append("<InstallPath>\TechnicalDrawingPython")
+#To avoid character encoding issues:
+#for example, you can use "\U" instead of "U"
+#or simply replace all "\" by "\\"
+#for example,
+#sys.path.append("C:\\Users\\User\\TechnicalDrawingPython")
 
 import numpy as np
 import math
